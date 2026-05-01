@@ -56,17 +56,6 @@ Venha conferir o **Script Haven** e a nossa **society**:
 
 ---
 
-### 🤝 Parceiros: Blox Lab
-*Liderado por GabrielrtxrobloxRtx — Onde a programação e o gaming se encontram!*
-
-* 💻 **Scripts Exclusivos:** Ferramentas do Blox Lab em primeira mão.
-* 🛠️ **Suporte Dev:** Dúvidas sobre scripts e Pydroid 3.
-* 👨‍💻 **Comunidade:** Gameplay (Brookhaven, Blox Fruits e mais).
-
-<a href="https://discord.gg/QNQdAWb5F" target="_blank">
-  <img src="https://img.shields.io/badge/Blox_Lab-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
 ---
 
 ### 🌐 Conecte-se comigo
