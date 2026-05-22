@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 juu.dev
+# 🌌 Tatsuツ
 ### 🚀 Fullstack Developer | Arch & Nix Lover
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/34.gif" width="120" />
