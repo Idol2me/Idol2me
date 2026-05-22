@@ -47,17 +47,6 @@
 
 ---
 
-### 🛡️ Comunidades
-Venha conferir o **Script Haven** e a nossa **society**:
-
-<a href="https://discord.gg/AQGtS7XkD4" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-Script_Haven-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
----
-
----
-
 ### 🌐 Conecte-se comigo
 
 <a href="https://instagram.com/code.juu" target="_blank">
