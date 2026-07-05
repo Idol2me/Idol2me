@@ -13,7 +13,7 @@
 **"Command the Deep."** ⚓
 *Desenvolvendo um SO baseado em Fedora focado em performance, estética e controle absoluto.*
 
-[🔗 Conheça o projeto](https://github.com/rip-pky/AbyssalOS)
+[🔗 Conheça o projeto](https://github.com/rip-pky/Abyssal-OS-)
 
 ---
 
