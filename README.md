@@ -5,7 +5,15 @@
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/34.gif" width="120" />
 
-*"Code is poetry, and bugs are just unexpected rhymes."*
+> *"Computers are not for work, they are for creation."* — **Terry A. Davis**
+
+---
+
+### 🌊 Abyssal OS
+**"Command the Deep."** ⚓
+*Desenvolvendo um SO baseado em Fedora focado em performance, estética e controle absoluto.*
+
+[🔗 Conheça o projeto](https://github.com/rip-pky/AbyssalOS)
 
 ---
 
@@ -46,8 +54,7 @@
 
 ---
 
-### 🌐 Conecte-se comigo
-
+### 🌐 Redes Sociais
 <a href="https://www.instagram.com/ytatsuxd/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
