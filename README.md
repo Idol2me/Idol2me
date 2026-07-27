@@ -13,13 +13,18 @@
 
 ---
 
-### ⚡ CORE STACKS & LOW-LEVEL
+### 💀 `sys://core_stacks & low-level`
 
 <p align="center">
   <img src="https://img.shields.io/badge/Assembly-050505?style=flat-square&logo=assemblyscript&logoColor=FF0000" />
   <img src="https://img.shields.io/badge/C-050505?style=flat-square&logo=c&logoColor=FF0000" />
   <img src="https://img.shields.io/badge/C++-050505?style=flat-square&logo=c%2B%2B&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/C%23-050505?style=flat-square&logo=c-sharp&logoColor=FF0000" />
   <img src="https://img.shields.io/badge/Python-050505?style=flat-square&logo=python&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/Lua-050505?style=flat-square&logo=lua&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/JavaScript-050505?style=flat-square&logo=javascript&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/HTML5-050505?style=flat-square&logo=html5&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/CSS3-050505?style=flat-square&logo=css3&logoColor=FF0000" />
   <img src="https://img.shields.io/badge/Linux-050505?style=flat-square&logo=linux&logoColor=FF0000" />
   <img src="https://img.shields.io/badge/Neovim-050505?style=flat-square&logo=neovim&logoColor=FF0000" />
 </p>
@@ -32,7 +37,7 @@
 <tr>
 <td width="100%" align="center">
 
-### ⚓ Abyssal OS
+### ⚡ `root@Abyssal-OS:~#`
 **"Command the Deep."**
 
 *Desenvolvendo um SO baseado em Fedora focado em performance, estética e controle absoluto.*
@@ -54,7 +59,7 @@
 
 <br><br>
 
-### 🌐 CONNECT
+### 🌐 `connect://socials`
 
 <br>
 
