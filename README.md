@@ -1,4 +1,4 @@
-# und3rgr0und
+# offbyone@thinkpad$
 
 > "Computers are not for work, they are for creation." — Terry A. Davis
 
