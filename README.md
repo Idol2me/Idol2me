@@ -3,10 +3,10 @@
 > "Computers are not for work, they are for creation." — Terry A. Davis
 
 ### ~$ whoami
-Fullstack Developer | Low-Level & Software Engineer | Arch & Nix Lover
+Fullstack Developer |  | Arch & Nix Lover
 
 ### ~$ cat stacks.txt
-- Core: Assembly, C, C++, C#
+- 
 - Scripting & Web: Python, Lua, JavaScript, HTML/CSS
 - Environment: Linux, Neovim
 
